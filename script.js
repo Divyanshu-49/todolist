@@ -146,4 +146,4 @@ document.addEventListener('DOMContentLoaded',localSave());
  
 button.addEventListener('click',handleClick);
 todolist.addEventListener('click',handletodo);
-console.log("hello,jai shree Ram..");
+console.log("hello,jai shree Ram,Jai Mata Di..");
